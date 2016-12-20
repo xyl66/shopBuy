@@ -129,6 +129,9 @@ function goods_thum_images($goods_id,$width,$height){
 
 /**
  * 商品相册缩略图
+ *新增ftp服务器获取缩略图并上传到ftp服务器
+ *Author:AGX
+ *date:2016-12-20
  */
 function get_sub_images($sub_img,$goods_id,$width,$height){
 	//判断缩略图是否存在
