@@ -131,6 +131,8 @@ return array(
     'SPHINX_PORT'         =>      '9312',
     /**
      * Ftp上传文件配置
+     *Author:agx
+     *date:2016-12-20
      */
     'UPLOAD_SITEIMG_FTP'    =>    array(
         'host'     => '10.130.2.200', //服务器
