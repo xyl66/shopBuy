@@ -263,6 +263,8 @@ class UeditorController extends BaseController
 
     /**
      * @function imageUp
+     *changer:agx
+     *date:2016-12-20
      */
     public function imageUp()
     {
